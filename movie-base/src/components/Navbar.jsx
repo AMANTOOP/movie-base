@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="bg-white shadow p-4">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* Logo */}
-        <div className="text-xl font-bold text-gray-900">🎬 MovieBase</div>
+        <div className="text-xl font-bold text-gray-900">🎬 CrazyMovies</div>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6 text-gray-700">
